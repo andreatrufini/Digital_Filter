@@ -71,7 +71,7 @@ REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 
 ## Data path
 
-<p align="center" width="70%"><img src="./Report/Datapath_2.png" /></p>
+<p align="center" width="70% !important"><img src="./Report/Datapath_2.png" /></p>
 
 ## ASM Chart
 
