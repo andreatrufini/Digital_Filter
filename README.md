@@ -6,6 +6,7 @@ This project has been developed at Politecnico di Torino by:
 # Digital Filter
 
 This is my first project on digital systems.
+For specific details like simulations or other detail take into account the report in the folder "Report".
 
 The project consists on a digital filter able to take data from a memory *MEM_A*, perform operations and save the results in a memory *MEM_B*.
 The operation performed on the data is described by the following expression:
@@ -74,8 +75,26 @@ REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 <p align="center"><img width="70%" src="./Report/Datapath_2.png" /></p>
 
 ## ASM Chart
-
 <p align="center"><img width="100%" src="./Report/ASM_CHART.jpg" /></p>
+
+## ASM of controls
+<p align="center"><img width="100%" src="./Report/ASM_CONTROL.jpg" /></p>
+
+## Timing
+### Uploading Memory A
+<p align="center"><img width="100%" src="./Report/Timing_1.PNG" /></p>
+
+### Operations on data
+<p align="center"><img width="100%" src="./Report/Timing_2_1.jpg" /></p>
+<p align="center"><img width="100%" src="./Report/Timing_2_2.jpg" /></p>
+
+## VHDL
+In the 'VHDL' folder there are all the vhdl files.
+
+## Testbench
+All the testbech are in the apposite folder. The generic idea is described by the following picture:
+<p align="center"><img width="80%" src="./Report/testbench.png" /></p>
+
 
 
 
