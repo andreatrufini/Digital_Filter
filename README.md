@@ -1,7 +1,7 @@
 This project has been developed at Politecnico di Torino by:
- - Andrea TRUFINI (LINKEDIN: https://www.linkedin.com/in/andrea-trufini-15471899/)
- - Christian FABIANO
- - Elia RIBALDONE
+ - Andrea TRUFINI    (LINKEDIN: https://www.linkedin.com/in/andrea-trufini-15471899/)
+ - Christian FABIANO (LINKEDIN: https://www.linkedin.com/in/christian-fabiano-k09/)
+ - Elia RIBALDONE    (LINKEDIN: https://www.linkedin.com/in/eliaribaldone/)
 
 # Digital Filter
 
@@ -71,6 +71,15 @@ REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 
 ## Data path
 
-<p align="center"><img src="./Report/top_view.png" /></p>
+<p align="center"><img src="./Report/Datapath_2.png" /></p>
+
+## ASM Chart
+
+<object data="ASM_CHART.pdf" type="application/pdf" width="90%" height="auto">
+    <embed src="ASM_CHART.pdf">
+        <p>This browser does not support PDFs. </p>
+    </embed>
+</object>
+
 
 
