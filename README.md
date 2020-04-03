@@ -75,11 +75,7 @@ REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 
 ## ASM Chart
 
-<object data="Report/ASM_CHART.pdf" type="application/pdf" width="60vw">
-    <embed src="Report/ASM_CHART.pdf">
-        <p>This browser does not support PDFs. </p>
-    </embed>
-</object>
+<p align="center"><img width="70%" src="./Report/ASM_CHART.pdf" /></p>
 
 
 
