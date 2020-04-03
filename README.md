@@ -71,12 +71,12 @@ REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 
 ## Data path
 
-<p align="center" width="70% !important"><img src="./Report/Datapath_2.png" /></p>
+<p align="center" width="300"><img src="./Report/Datapath_2.png" /></p>
 
 ## ASM Chart
 
-<object data="ASM_CHART.pdf" type="application/pdf" width="60vw">
-    <embed src="ASM_CHART.pdf">
+<object data="Report/ASM_CHART.pdf" type="application/pdf" width="60vw">
+    <embed src="Report/ASM_CHART.pdf">
         <p>This browser does not support PDFs. </p>
     </embed>
 </object>
