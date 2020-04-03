@@ -82,7 +82,7 @@ REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 
 ## Timing
 ### Uploading Memory A
-<p align="center"><img width="70%" src="./Report/Timing_1.PNG" /></p>
+<p align="left"><img width="60%" src="./Report/Timing_1.PNG" /></p>
 
 ### Operations on data
 <p align="center"><img width="100%" src="./Report/Timing_2_1.jpg" /></p>
