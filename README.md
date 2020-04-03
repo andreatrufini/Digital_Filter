@@ -1,3 +1,8 @@
+This project has been developed at Politecnico di Torino by:
+ - Andrea TRUFINI (LINKEDIN: https://www.linkedin.com/in/andrea-trufini-15471899/)
+ - Christian FABIANO
+ - Elia RIBALDONE
+
 # Digital Filter
 
 This is my first project on digital systems.
@@ -63,5 +68,9 @@ end
 
 REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 ```
+
+## Data path
+
+<p align="center"><img src="./Report/top_view.png" /></p>
 
 
