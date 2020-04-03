@@ -75,7 +75,7 @@ REG_AVERAGE = REG_AVERAGE / 1024 %Divisione media
 
 ## ASM Chart
 
-<p align="center"><img width="70%" src="./Report/ASM_CHART.pdf" /></p>
+<p align="center"><img width="100%" src="./Report/ASM_CHART.jpg" /></p>
 
 
 
