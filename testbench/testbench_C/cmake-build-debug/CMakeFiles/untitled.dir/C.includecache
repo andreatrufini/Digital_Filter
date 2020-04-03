@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrea Trufini/Desktop/Polito/III anno/Elettronica dei sistemi digitali/Laboratorio/Quartus/Lab_6/untitled/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+
