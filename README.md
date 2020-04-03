@@ -13,7 +13,7 @@ The operation performed on the data is described by the following expression:
 <p align="center"><img src="./Report/formula.png" /></p>
 
 The general top view scheme is the following one:
-<p align="center"><img src="./Report/top_view.png" /></p>
+<p align="center" width="85%"><img src="./Report/top_view.png" /></p>
 
 In the following there is a brief description of the project organized in different sections:
 - Pseudocode
